@@ -28,9 +28,7 @@ export default function Resultado({
       </p>
 
       <p className="text-sm text-gray-300 mt-3 text-center">
-        * Esses dados são não consideram o índice de correção no período ou o
-        desconto do imposto de renda. Essa é uma projeção baseano no valor anual
-        do CDI.
+        * Gostaríamos de ressaltar que as informações e projeções fornecidas nesta aplicação são baseadas exclusivamente no valor anual do Certificado de Depósito Interbancário (CDI) e podem não refletir precisamente o rendimento real que você poderá obter. É essencial considerar vários fatores adicionais que podem afetar seus resultados financeiros.
       </p>
     </div>
   );
