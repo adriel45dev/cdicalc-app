@@ -3,7 +3,7 @@ interface headerProps {
   handle: (event: React.ChangeEvent<HTMLInputElement>) => void;
 }
 
-export default async function Header({ cdiValue, handle }: headerProps) {
+export default function Header({ cdiValue, handle }: headerProps) {
   return (
     <header>
       <h1 className="font-mono mb-5 text-4xl font-bold">CDI Calc</h1>
