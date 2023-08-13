@@ -2,6 +2,10 @@
 
 CDI Calc é uma calculadora financeira de código aberto desenvolvida com Next.js 13 para estimar o rendimento de investimentos baseados na taxa CDI (Certificado de Depósito Interbancário). 💸 Esta calculadora é projetada para ajudar os usuários a entenderem como seus investimentos podem crescer ao longo do tempo com base na taxa CDI vigente. Com uma interface simples, os usuários podem inserir informações como o valor inicial do investimento, a taxa CDI e o período de cálculo desejado. A CDI Calc oferece resultados claros, incluindo uma visualização gráfica do crescimento do investimento, tornando-se uma ferramenta útil para o planejamento financeiro e tomada de decisões de investimento.
 
+## Como Usar
+
+Acesse a CDI Calc em: [https://cdicalc.vercel.app/](https://cdicalc.vercel.app/)
+
 ## Licença
 
 Este projeto é distribuído sob a licença [MIT](LICENSE), uma licença de código aberto que permite que você modifique e distribua o software. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
