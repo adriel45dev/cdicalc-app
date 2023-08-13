@@ -4,7 +4,7 @@ CDI Calc é uma calculadora financeira de código aberto desenvolvida com Next.j
 
 ## Licença
 
-Este projeto é distribuído sob a licença [MIT](LICENSE), uma licença de código aberto que permite que você modifique e distribua o software. Veja o arquivo [LICENSE.txt](LICENSE.txt) para mais detalhes.
+Este projeto é distribuído sob a licença [MIT](LICENSE), uma licença de código aberto que permite que você modifique e distribua o software. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 
