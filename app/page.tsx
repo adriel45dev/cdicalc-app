@@ -50,8 +50,8 @@ export default function Home() {
       const porcentagem = (cdiValue * inputPorcentagemValue) / 10000;
       let rendimento = inputValue * porcentagem;
 
-     let rendimentoDia = rendimento / 336;
-      let rendimentoMes = rendimentoDia * 20;
+     let rendimentoDia = rendimento / 365;
+      let rendimentoMes = rendimentoDia * 30.4166666667;
       let rendimentoAno = rendimento;
 
       if (dateType == 1) {
